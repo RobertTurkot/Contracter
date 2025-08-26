@@ -1,1 +1,4 @@
 Python program that parses and filters API data and relays it to a discord bot
+
+
+Run contractget.py with a cronjob every five minutes.
